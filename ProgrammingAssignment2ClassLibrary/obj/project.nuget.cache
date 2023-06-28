@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zt6Q+bLOwF4n2M2t1Jpr9I9+a6KczisWJB6eSBfjvb6Sykv2QQ3MFyRtAfrAGcSxTr80CNd9OgeriFxwoSQTsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\Programming-Assignment-2\\2 Windows Autograder Programming Assignment 2 Materials\\ProgrammingAssignment2ClassLibrary\\ProgrammingAssignment2ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
